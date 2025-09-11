@@ -17,6 +17,7 @@ this class has the fllowing areas:
 * git
 * github
 * crete repo / .gitignore
+* branch & merge
 * create commit
 * push repo to the web
 
@@ -42,6 +43,25 @@ git-flow-jr
 * copias los comandos de (crear desde un repositorio existente)
 * actualizas la pagina del repo
 
+# Entregable:
+Puedes ver la pagina con: 
+
+```python -m http.server 8000```
+
+o abrir el html en tu navegador. 
+## Forma 1
+Contribuye a esta pagina:
+* clona este repo
+* crea tu branch
+* modifica el contenido de index.html , aniadiendo tu nombre e imagen con una nueva tarjeta de css , guarda cambios. y haz un commit.
+* tus cambios seran locales hasta que te aniada como colaborador oficial al repo y puedas hacer push a tu nueva branch.
+## Forma 2 (recomendada)
+Haz Fork, los froks son como clonar el repositorio pero te da control total sobro el que aparece en tu perfily luego puedes aportar al repo original con una pull requests
+* haz fork y ponle nombre a tu repo
+* clona
+* modifica el contenido de index.html
+* guarda y haz commit 
+* haz push y mira los cambios desde tu navegador en http://localhost:8000/
 
 # Bonus : 
 
