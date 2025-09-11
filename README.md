@@ -62,7 +62,7 @@ Haz Fork, los froks son como clonar el repositorio pero te da control total sobr
 * modifica el contenido de index.html
 * guarda y haz commit 
 * haz push y mira los cambios desde tu navegador en http://localhost:8000/
-
+* haz una pull requests (Las PR mas interesantes seran mergeadas a este repo)
 # Bonus : 
 
 ## Crea tus shorcuts de commits con un  diccionario de commits
