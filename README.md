@@ -43,6 +43,8 @@ git-flow-jr
 * actualizas la pagina del repo
 
 
-# Bonus : Crea tus shorcuts de commits con un  diccionario de commits
+# Bonus : 
+
+## Crea tus shorcuts de commits con un  diccionario de commits
 - example: my latest commits.
 
